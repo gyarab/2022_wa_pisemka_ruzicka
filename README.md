@@ -1,3 +1,3 @@
-# 2022_we_pisemka_ruzicka
+# 2022_wa_pisemka_ruzicka
 
 ## miluju bootstrap
